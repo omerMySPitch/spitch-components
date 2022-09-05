@@ -1,7 +1,7 @@
 {
   "name": "@My-SPitch/spitch-components",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/spitch-components"
+    "registry": "https://npm.pkg.github.com/My-SPitch"
   },
   "version": "0.1.0",
   "description": "A simple template for a custom React component library",
